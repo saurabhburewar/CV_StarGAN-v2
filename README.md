@@ -11,7 +11,7 @@ Code - https://github.com/clovaai/stargan-v2
 To run on windows, I have made slight changes to the code. Also, this code supports FFHQ dataset.
 
 ### Installations and set up
-Instructions to run on linux are available at the original repo, for windows use the following commands -
+For setup on windows use the following commands -
 ```
 git clone https://github.com/saurabhburewar/CV_StarGAN-v2.git
 cd CV_StarGAN-v2/
