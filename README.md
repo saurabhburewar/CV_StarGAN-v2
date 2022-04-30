@@ -8,7 +8,7 @@ Code - https://github.com/clovaai/stargan-v2
 
 ## How to run
 
-To run on windows, I have slight changes to the code. Also, this code supports FFHQ dataset.
+To run on windows, I have made slight changes to the code. Also, this code supports FFHQ dataset.
 
 ### Installations and set up
 Instructions to run on linux are available at the original repo, for windows use the following commands -
