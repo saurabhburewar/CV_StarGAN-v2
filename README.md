@@ -2,9 +2,9 @@
 
 This is the implementation for StarGAN v2, available publicly with a few changes to support the FFHQ dataset. 
 
-StarGAN v2
-Paper - https://arxiv.org/abs/1912.01865
-Code - https://github.com/clovaai/stargan-v2
+StarGAN v2  
+Paper - https://arxiv.org/abs/1912.01865  
+Code - https://github.com/clovaai/stargan-v2  
 
 ## How to run
 
